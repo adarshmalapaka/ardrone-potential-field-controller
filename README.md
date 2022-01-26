@@ -1,7 +1,8 @@
 # ENPM 667 Course Project-01 - Paper Implementation 
 ## Reference Paper 
-> - **Title:** _A Novel Potential Field Controller for Use on Aerial Robots_
-> - **Authors:** _Alexander C. Woods_ and _Hung M. La_, _Senior Member, IEEE_
+<!-- > - **Title:** _A Novel Potential Field Controller for Use on Aerial Robots_ -->
+<!-- > - **Authors:** _Alexander C. Woods_ and _Hung M. La_, _Senior Member, IEEE_ -->
+> * A. C. Woods and H. M. La, "A Novel Potential Field Controller for Use on Aerial Robots," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 49, no. 4, pp. 665-676, April 2019, doi: 10.1109/TSMC.2017.2702701.
 
 ## To run the ROS + GAZEBO simulation 
 
