@@ -1,4 +1,9 @@
-# ENPM 667 Course Project-01 - Paper Implementation 
+# Course Project-01 - Paper Implementation 
+
+Simulating an AR Drone in SIMULINK (using AR Drone Simulink Development-Kit V1.1) and ROS/Gazebo (based on the tum_simulator ROS package) with an implementation of a Potential Field based controller in its original form and a novel extension as described in the below paper, to track desired waypoints while avoiding obstacles.
+
+**Course Name:** ENPM667 - Control of Robotic Systems
+
 ## Reference Paper 
 <!-- > - **Title:** _A Novel Potential Field Controller for Use on Aerial Robots_ -->
 <!-- > - **Authors:** _Alexander C. Woods_ and _Hung M. La_, _Senior Member, IEEE_ -->
