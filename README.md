@@ -1,6 +1,8 @@
 # Course Project-01 - Paper Implementation 
 
-Simulating an AR Drone in SIMULINK (using AR Drone Simulink Development-Kit V1.1) and ROS/Gazebo (based on the tum_simulator ROS package) with an implementation of a Potential Field based controller in its original form and a novel extension as described in the below paper, to track desired waypoints while avoiding obstacles.
+![demo](https://user-images.githubusercontent.com/40534801/151639164-909a1503-9f8e-48d6-ac33-d00f5e5bf01e.jpg)
+
+Simulating an AR Drone in SIMULINK (using AR Drone Simulink Development-Kit V1.1) and ROS/Gazebo (based on the tum_simulator ROS package) with an implementation of a Potential Field based controller in its original form and a novel extension as described in the below paper, to track desired waypoints (numbered cubes in picture) while avoiding obstacles (cardboard box in picture).
 
 **Course Name:** ENPM667 - Control of Robotic Systems
 
